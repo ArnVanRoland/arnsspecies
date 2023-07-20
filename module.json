@@ -35,6 +35,4 @@
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/ArnVanRoland/arnsspecies/main/module.json",
   "download": "https://github.com/ArnVanRoland/arnsspecies/archive/refs/heads/main.zip",
-  "protected": false,
-  "coreTranslation": false
 }
